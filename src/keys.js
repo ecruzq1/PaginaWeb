@@ -1,8 +1,8 @@
 module.exports={
     database:{
-        host:'mysql-oportuno.alwaysdata.net',
-        user:'oportuno_admin',
+        host:'mysql-hugo170983.alwaysdata.net',
+        user:'278414_oportuno',
         password:'Pululahua.170983',
-        database:'oportuno_inmobiliaria'
+        database:'hugo170983_oportuno_inmobiliaria'
     }
 };
